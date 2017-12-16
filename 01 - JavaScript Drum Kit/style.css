@@ -14,7 +14,7 @@ body,html {
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: 90vh;
   align-items: center;
   justify-content: center;
 }
@@ -25,7 +25,7 @@ body,html {
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
-  transition: all 1s ease;
+  transition: all 0.2s ease;
   width: 10rem;
   text-align: center;
   color: white;
@@ -57,3 +57,8 @@ kbd {
 
 .margin
 {margin: 1rem;}
+
+
+
+
+
