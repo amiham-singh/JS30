@@ -1,0 +1,6130 @@
+[
+ {
+   "Name": "Aargau",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Aargonar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Abafar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Sprizen sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Abednedo",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Abednedo",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Abhean",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Abregado-Rae",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Absanz",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Adumar",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Adumar system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Aeten",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Affadar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "T'Laeem",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Agamar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Agamar system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Agaris",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Agarian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Agoliba-Ado",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Agoliba-Tu system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Agoliba-Ena",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Agoliba-Tu system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ahakista",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Ahakista system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ahch-To",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Human",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ai'ken Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Akiva",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Twi'leks, Mon Calamari, Ahia-Ko, Uugteen",
+   "Capital City": "Myrra"
+ },
+ {
+   "Name": "Akuria",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Alderaan",
+   "Region": "Core Worlds",
+   "Sector": "Alderaan sector",
+   "System": "Alderaan system",
+   "Inhabitants": "Humans",
+   "Capital City": "Aldera"
+ },
+ {
+   "Name": "Aleen",
+   "Region": "Mid Rim",
+   "Sector": "Bright Jewel sector",
+   "System": "Aleen system",
+   "Inhabitants": "Aleena, Kindalo",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Algarian",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Allst Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Allyuen",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Alpheridies",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Alpinn",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ambria",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Amethia Prime",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ammon IV",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anantapar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anaxes",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Andelm IV",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ando",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Aqualish",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ando Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anelsana",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ankhural",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ankhuralan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ankus",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anoat",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Anoat system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ansion",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Antar",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anteevy",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anthan Prime",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Anthan system",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Anzat",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Aquaris",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Argazda",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Aria Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Arieli",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Arkania",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Arkanis",
+   "Region": "Outer Rim Territories",
+   "Sector": "Arkanis sector",
+   "System": "Arkanis system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Arreyel",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Artiod Minor",
+   "Region": "Unknown",
+   "Sector": "Morellian Commonwealth",
+   "System": "Artiod system",
+   "Inhabitants": "Artiodacs",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Askaji",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Askajian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Asmeru",
+   "Region": "Mid Rim",
+   "Sector": "Senex sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Atollon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Lothal sector",
+   "System": "Atollon system",
+   "Inhabitants": "Humans, Lasat, Twi'lek",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Atrisia",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Attahox",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Atterra Alpha",
+   "Region": "Outer Rim Territories",
+   "Sector": "Atterra system",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Atterra Bravo",
+   "Region": "Outer Rim Territories",
+   "Sector": "Atterra system",
+   "System": "Unknown",
+   "Inhabitants": "Atterran",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Atterra Primo",
+   "Region": "Outer Rim Territories",
+   "Sector": "Atterra system",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Atzerri",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Gotals",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Balamak",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Balmorra",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Balnab",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Balosar",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Balosar",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bamayar",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bardotta",
+   "Region": "Colonies",
+   "Sector": "Shasos sector",
+   "System": "Bardotta system",
+   "Inhabitants": "Bardottans",
+   "Capital City": "Bardotta Capital City"
+ },
+ {
+   "Name": "Bar'leth",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bastatha",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Bastatha system",
+   "Inhabitants": "Niktos",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Basteel",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corva sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bastion",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Batonn",
+   "Region": "Outer Rim Territories",
+   "Sector": "Batonn sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Batuu",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bavva",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Belasco",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Belderone",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tion Cluster",
+   "System": "Belderone system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Belkadan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Belladoon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Belnar",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Belsavis",
+   "Region": "Mid Rim",
+   "Sector": "Senex-Juvex",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bendeluum",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Berchest",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Berzite",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Yost system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bescane",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bespin",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Bespin system",
+   "Inhabitants": "Humans, Ugnaughts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bestine",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bilbringi",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bilzen",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bimmiel",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bimmisaari",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Birgis",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Birren",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bith",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Bith system",
+   "Inhabitants": "Bith",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bogden",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bomis Koori",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bonadan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corporate Sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Boonta",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": ""
+ },
+ {
+   "Name": "Boothi XII",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Boranda",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Borgo Prime",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Borleias",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Borosk",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Botajef",
+   "Region": "Outer Rim Territories",
+   "Sector": "Belsmuth sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bothawui",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Boz Pity",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Boz Pity system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Brentaal IV",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Bromlarch",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Burnin Konn",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Burnin Konn system",
+   "Inhabitants": "Humans, Nothoiins",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Byblos",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Byss",
+   "Region": "Deep Core",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Byss",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Abyssin",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Calcoraan",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Calcoraan system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Camson",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Candovant",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cantonica",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cardota",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Hosnian system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Carida",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Carida system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Carlac",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ming Po",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Carnelion IV",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Fishers, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Carsanza",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cartao",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Castell",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Castell system",
+   "Inhabitants": "Gossams, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cato Neimoidia",
+   "Region": "Colonies",
+   "Sector": "Quellor sector",
+   "System": "Cato Neimoidia system",
+   "Inhabitants": "Neimoidians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Centares",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cerea",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Cerean",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chaaktil",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chad",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Chadra-Fans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chagar IX",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chal Hudda",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chalacta",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Chalactans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chalcedon",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Champala",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Chagrians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chandel",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chandrila",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Pantoran",
+   "Capital City": "Hanna City"
+ },
+ {
+   "Name": "Charros",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chasmeene",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cholganna",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Christophsis",
+   "Region": "Outer Rim Territories",
+   "Sector": "Savareen sector",
+   "System": "Christoph system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Chrona",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ciutric",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Codia",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Colla IV",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Colicoid",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Columus",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Commenor",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Comra",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cona",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Concord Dawn",
+   "Region": "Outer Rim Territories",
+   "Sector": "Mandalore sector",
+   "System": "Concord Dawn system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Constancia",
+   "Region": "Deep Core",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Corellia",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Corellia system",
+   "Inhabitants": "Besalisk, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Corsin",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Corulag",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Coruscant",
+   "Region": "Core Worlds",
+   "Sector": "Corusca sector, Coruscant subsector",
+   "System": "Coruscant system",
+   "Inhabitants": "Many Types",
+   "Capital City": "Galactic City"
+ },
+ {
+   "Name": "Council",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Courtsilius",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Hosnian system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Coyerti",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Crait",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Crait system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Crandel",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Crucival",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tion Hegemony",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Crul",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Crolutes, Gilliands",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Csilla",
+   "Region": "Unknown Regions",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cyphar",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Cyphari",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Cyrkon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Motok"
+ },
+ {
+   "Name": "Daalang",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dagobah",
+   "Region": "Outer Rim Territories",
+   "Sector": "Sluis sector",
+   "System": "Dagobah system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dandoran",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Doran system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dantooine",
+   "Region": "Outer Rim Territories",
+   "Sector": "Raioballo sector",
+   "System": "Human",
+   "Inhabitants": "Unknown",
+   "Capital City": ""
+ },
+ {
+   "Name": "Darkknell",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Darlyn Boda",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dasoor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dathomir",
+   "Region": "Outer Rim Territories",
+   "Sector": "Quelli sector",
+   "System": "Dathomir system",
+   "Inhabitants": "Dathomirians, Zabraks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Daxam IV",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Daxan Beta",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Delphon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Demiloch",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Denash",
+   "Region": "Outer Rim Territories",
+   "Sector": "Batonn sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dennogra",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Denon",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dermos",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Devaron",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Devaron system",
+   "Inhabitants": "Devaronians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Deysum",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dinwa Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dinzo",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dolla",
+   "Region": "Mid Rim",
+   "Sector": "Senex-Juvex",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dorin",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kel Dor",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "D'Qar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Ileenium system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Draboon",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Drearia",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dressel",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Dressellian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Druckenwell",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Dubrillion",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Durkteel",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Saurins",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Duro",
+   "Region": "Core Worlds",
+   "Sector": "Duro sector",
+   "System": "Unknown",
+   "Inhabitants": "Duros",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Eadu",
+   "Region": "Outer Rim Territories",
+   "Sector": "Bheriz sector",
+   "System": "Eadu system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Edusa",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Egips",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Nanak",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Eiattu",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Empress Teta",
+   "Region": "Deep Core",
+   "Sector": "Koros sector",
+   "System": "Empress Teta system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Enarc",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Endor",
+   "Region": "Outer Rim Territories",
+   "Sector": "Moddell sector",
+   "System": "Endor system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Entralla",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Epiphany",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corporate Sector",
+   "System": "Salient system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Eriadu",
+   "Region": "Outer Rim Territories",
+   "Sector": "Seswenna sector",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Rodians",
+   "Capital City": "Eriadu City"
+ },
+ {
+   "Name": "Er'Kit",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Er'Kit",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Errimin",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ertegas",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Esfandia",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Espinar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Espirion",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Alder-Espirion, Bith, Espirions, Humans, Rodians, Talz",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Etti IV",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Eufornis Major",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Eufornis Minor",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Exodeen",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ezaraa",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ezaraa",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Falleen",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Falleen",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Farana",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Farstine",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Felucia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Felucia system",
+   "Inhabitants": "Felucians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ferrok Pax",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ancient proto-species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Fest",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Fillithar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Fillithar",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Filordis",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Florrum",
+   "Region": "Outer Rim Territories",
+   "Sector": "Sertar sector",
+   "System": "Unknown",
+   "Inhabitants": "Bith, Jawas, Nikto, Weequays",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Fondor",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Formos",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Fornax",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Frong",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Frong",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gad",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Galaan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corva sector",
+   "System": "Galaan system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Galidraan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Galidraan system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Galidraan III",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Galidraan system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Galidraan IV",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Galidraan system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Galpos II",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Thalassians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Galzez",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gamorr",
+   "Region": "Outer Rim Territories",
+   "Sector": "Galov sector",
+   "System": "Unknown",
+   "Inhabitants": "Gamorreans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gan Moradir",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Xan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gand",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Gand",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ganthel",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Garel",
+   "Region": "Outer Rim Territories",
+   "Sector": "Lothal sector",
+   "System": "Garel system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Garos",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gatalenta",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Genassa",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Generis",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gentes",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Ugnaughts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Geonosis",
+   "Region": "Outer Rim Territories",
+   "Sector": "Arkanis sector",
+   "System": "Geonosis system",
+   "Inhabitants": "Acklay, Geonosians, Massiff, Nexu, Reek",
+   "Capital City": "Stalgasin hive"
+ },
+ {
+   "Name": "Gerrenthum",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gesaral Beta",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ghorman",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Giju",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gilvaanen",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ithorians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gizer",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Glee Anselm",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Nautolans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gorse",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Gorse system",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gozgo",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Graf-World",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Grange",
+   "Region": "Unknown",
+   "Sector": "Rocantor sector",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gravlex Med",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Grizmallt",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gromas",
+   "Region": "Mid Rim",
+   "Sector": "Perkell sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "GUHL-JO387O",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Gutretee",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "G'wenee",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Haidoral Prime",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Halbara",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Halcyon",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Halmad",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Harloff Minor",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Haruun Kal",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hays Major",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Otomok system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hays Minor",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Otomok system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Heap Nine",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Helska",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Herdessa",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hevurion",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hinari",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hirara",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Five Points system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hissrich",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hok",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Horuz",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hosnian",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Hosnian system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hosnian Prime",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Hosnian system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Republic City"
+ },
+ {
+   "Name": "Hosra",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Burnin Konn system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hoth",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Hoth system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Hudalla",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Hudalla system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iakar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Iakaru",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ibaar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Aqualish, Human, Snivvian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iego",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ikari",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iktotchon",
+   "Region": "Expansion Region",
+   "Sector": "Narvath sector",
+   "System": "Iktotch system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iloh",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Near-human",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ilum",
+   "Region": "Unknown Regions",
+   "Sector": "7G sector",
+   "System": "Ilum system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Imdaar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Imvur",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Hasmir system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Indoumodo",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Indupar",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Insk",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Inusagi",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Rayeth",
+   "Capital City": "Inusagi's capital city"
+ },
+ {
+   "Name": "Ione",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Ione system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iridonia",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Zabraks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Irudiru",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Irudiru system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Isde Naha",
+   "Region": "Western Reaches",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iseno",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Iskalon",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ison",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Ison system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Itapi Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ithor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Ottega system",
+   "Inhabitants": "Ithorians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ivarujar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ivera X",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jaatovi",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jaelen",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jaemus",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jakku",
+   "Region": "Western Reaches",
+   "Sector": "Unknown",
+   "System": "Jakku system",
+   "Inhabitants": "Abednedo, Crolute, Humans, Hutt, Kyuzo, Melitto, Nu-Cosian, Teedo, Uthuthma",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jalindi",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Jalindi system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jelucan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Twi'leks, Falleen",
+   "Capital City": "Valentia"
+ },
+ {
+   "Name": "Jeosyn",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unidentified Jeosyn species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jhas",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Hoth system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jilrua",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Jilruans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jiroch",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Jomark",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kaal",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kadavo",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Kadavo system",
+   "Inhabitants": "Zygerrians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kaddak",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Kaddak system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kalarba",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kalee",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kaleesh",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kalevala",
+   "Region": "Outer Rim Territories",
+   "Sector": "Mandalore sector",
+   "System": "Mandalore system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kalinda",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kaller",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Kaller system",
+   "Inhabitants": "Kallerans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kamino",
+   "Region": "Beyond the Rishi Maze",
+   "Sector": "Abrion sector",
+   "System": "Kamino system",
+   "Inhabitants": "Kaminoans",
+   "Capital City": "Tipoca City"
+ },
+ {
+   "Name": "Kanzi",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kardoa",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Karfeddion",
+   "Region": "Mid Rim",
+   "Sector": "Senex sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kartoosh",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kashyyyk",
+   "Region": "Mid Rim",
+   "Sector": "Mytaranor sector",
+   "System": "Kashyyyk system",
+   "Inhabitants": "Wookiees",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kattada",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Keitum",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kelada",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kellux",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Kellux system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kerev Doi",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Bodach'i, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kergans",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Zeltron",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kerkoidia",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kerkoiden",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kessel",
+   "Region": "Outer Rim Territories",
+   "Sector": "Kessel sector",
+   "System": "Kessel system",
+   "Inhabitants": "Humans, Wookiees",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ketaris",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Khorm",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Khuteb",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tion Hegemony",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kiffex",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kiffar",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kiffu",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kiffar",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kinrah",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Kinrah system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kintan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Nikto",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kintoni",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kirdo III",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kitonaks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kiros",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Togruta",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kirtarkin",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Klatooine",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Klatooinian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Klonoid",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Klytus V",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Konkiv",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kooriva",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Koorivar",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Korrus",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kowak",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Mole-flea",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kril'Dor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kriselist",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Krownest",
+   "Region": "Outer Rim Territories",
+   "Sector": "Mandalore sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ktath'atn",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ktil",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kuat",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Kuat system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kubindi",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kubaz",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kupoh",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Kupoh system",
+   "Inhabitants": "Kupohans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Kwenn",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lah'mu",
+   "Region": "Outer Rim Territories",
+   "Sector": "Raioballo sector",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lahn",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lahsbane",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lannik",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lanniks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lanteeb",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Maxilan's explosive bloatworm",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lantillies",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lasan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Lasan system",
+   "Inhabitants": "Lasats",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lefrani",
+   "Region": "Outer Rim Territories",
+   "Sector": "Atravis sector",
+   "System": "Mustafar system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Leritor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lew'el",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lew'elans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lexrul",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lira San",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lasats",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Li-Toran",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Melittos",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Llanic",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Llanic system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lokori",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lokori",
+   "Capital City": "Fucallpa"
+ },
+ {
+   "Name": "Lola Sayu",
+   "Region": "Outer Rim Territories",
+   "Sector": "Belderone sector",
+   "System": "Lola Sayu system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lolet",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Lolet system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lonera",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lonerans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lorahns",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Loronar",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lorrd",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lorta",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lothal",
+   "Region": "Outer Rim Territories",
+   "Sector": "Lothal sector",
+   "System": "Lothal system",
+   "Inhabitants": "Various",
+   "Capital City": "Capital City"
+ },
+ {
+   "Name": "Lotho Minor",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Anacondans, Junkers",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lucazec",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Luprora",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lupr'or",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lwhekk",
+   "Region": "Unknown Regions",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Lysatra",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mahranee",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Mahran",
+   "Capital City": "Mahranee capital city"
+ },
+ {
+   "Name": "Makem Te",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Malachor",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Malastare",
+   "Region": "Mid Rim",
+   "Sector": "Dustig sector",
+   "System": "Malastare system",
+   "Inhabitants": "Dugs, Grans, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Malpaz",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Iktotchi, Unidentified Malpaz species",
+   "Capital City": "Malpaz capital city"
+ },
+ {
+   "Name": "Manaan",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Selkath",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Manda",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mandalore",
+   "Region": "Outer Rim Territories",
+   "Sector": "Mandalore sector",
+   "System": "Mandalore system",
+   "Inhabitants": "Humans",
+   "Capital City": "Sundari"
+ },
+ {
+   "Name": "Manpha",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mantooine",
+   "Region": "Outer Rim Territories",
+   "Sector": "Atrivis sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mardona III",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Maridun",
+   "Region": "Outer Rim Territories",
+   "Sector": "Rolion sector",
+   "System": "Maridun system",
+   "Inhabitants": "Amani, Lurmen",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Marleyvane",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mataou",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Mataou system",
+   "Inhabitants": "Hutts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mathas",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Megalox Beta",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Megalox system",
+   "Inhabitants": "Hutts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mendavi",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mennar-Daye",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Merj",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Morseerians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Metalorn",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mexeluine",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mijos",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mirial",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Mirialans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mirrin Prime",
+   "Region": "Unknown",
+   "Sector": "Mirrin sector",
+   "System": "Mirrin system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Miser",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Bespin system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Moltok",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mon Cala",
+   "Region": "Outer Rim Territories",
+   "Sector": "Calamari sector",
+   "System": "Mon Calamari system",
+   "Inhabitants": "Mon Calamari, Quarren",
+   "Capital City": "Mon Cala city"
+ },
+ {
+   "Name": "Mon Gazza",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Monastery",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Monastery",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Montross",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Moonus Mandel",
+   "Region": "Mid Rim",
+   "Sector": "Bothan Space",
+   "System": "Unknown",
+   "Inhabitants": "Veknoid",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Moorja",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Moraband",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Moraga",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Moragan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mordal",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Morellia",
+   "Region": "Unknown",
+   "Sector": "Morellian Commonwealth",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mortis",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Chrelythiumn system",
+   "Inhabitants": "Force wielders",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mrisst",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mugaar",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Murkhana",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Murkhana system",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mustafar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Atravis sector",
+   "System": "Mustafar system",
+   "Inhabitants": "Mustafarian",
+   "Capital City": "Fralideja"
+ },
+ {
+   "Name": "Muunilinst",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Munn",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mygeeto",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lurmen",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mykapo",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Mykapo system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Mytus",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Naalol",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Naator",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Naboo",
+   "Region": "Mid Rim",
+   "Sector": "Chommell sector",
+   "System": "Naboo system",
+   "Inhabitants": "Elders, Gungans, Humans (Naboo)",
+   "Capital City": "Otoh Gunga (Gungan), Theed (Human)"
+ },
+ {
+   "Name": "Nag Ubdur",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Ubdur system",
+   "Inhabitants": "Artiodac, Keldar, Ubdurians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "NaJedha",
+   "Region": "Mid Rim",
+   "Sector": "Terrabe sector, Freestanding subsectors",
+   "System": "Jedha system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nakadia",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Nakadian",
+   "Capital City": "Quarrow"
+ },
+ {
+   "Name": "Nal Hutta",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nam Chorios",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Namadii",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nanth'ri",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Nanth'ri system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nar Kanji",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans, Hutts, Jablogians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Naraka",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Narq",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Narquois",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Neimoidia",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Neimoidians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nelvaan",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Nelvaanian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "New Alderaan",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "New Cov",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nexator",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nexus Ortai",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nez Peron",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nirauan",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nixor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nixus",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Aqualish, Rodians, Ugnaughts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Noctu",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Noe'ha'on",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nordis Prime",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nothoiin",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Nothoiins",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Nouane",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Noult",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": null,
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "N'Zoth",
+   "Region": "Core Worlds",
+   "Sector": "Koornacht Cluster",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Oba Diah",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Pykes",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Obroa-skai",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Obroa-skai system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ocahont",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Odona",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ogem",
+   "Region": "Mid Rim, Western Reaches",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ojom",
+   "Region": "Deep Core",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Besalisks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Oliu",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Omereth",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Omereth system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Onderon",
+   "Region": "Inner Rim",
+   "Sector": "Japrael sector",
+   "System": "Japrael system",
+   "Inhabitants": "Humans",
+   "Capital City": "Iziz"
+ },
+ {
+   "Name": "Oon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Lothal sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Oosalon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Biniir",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Cantrell",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Cestus",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Mantell",
+   "Region": "Mid Rim",
+   "Sector": "Bright Jewel sector",
+   "System": "Bright Jewel system",
+   "Inhabitants": "Falleens, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Pardron",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Radama",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ord Trasi",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Orinda",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Orish",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Orishen",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Orn Kios",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Orondia",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Orto Plutonia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Sujimis sector",
+   "System": "Pantora system",
+   "Inhabitants": "Talz",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ossus",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Oulanne",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ovanis",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ithorian, Trandoshan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Palanhi",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pamarthe",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pammant",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Quarren",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Paqwepor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Parnassos",
+   "Region": "Unknown Regions",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pasher",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Patitite Pattuna",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Patitites",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Patrolia",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Patrolians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Paucris Major",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Paucris system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pendarr III",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Phaeda",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Phatrong",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kyuzos",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pheryon",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Phindar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Mandalore sector",
+   "System": "Phindar system",
+   "Inhabitants": "Phindians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Phorsa Gedd",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Phu",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Bardottans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pillio",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Jinata system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pion",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Pion system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pipada",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Drabatan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Plexis",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Polis Massa",
+   "Region": "Outer Rim Territories",
+   "Sector": "Subterrel sector",
+   "System": "Polis Massa system",
+   "Inhabitants": "Kallidahins",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pollillus",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Polmanar",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ponemah Terminal",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Prefsbelt",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Promencius Four",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tion Hegemony",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Pujool",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Anoat system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Quarzite",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Belugans, Kage",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Quell",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Quell system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Quellor",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Quermia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Quermians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ques",
+   "Region": "Hutt Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Human",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Quila",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Radhii",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Radnor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rago",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rajtiri",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rakata Prime",
+   "Region": "Unknown Regions",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Randon",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rattatak",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Dathomirians, Humans, Siniteen, Weequays",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Raxus",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tion Hegemony",
+   "System": "Raxus system",
+   "Inhabitants": "Gossams, Humans, Siniteen",
+   "Capital City": "Raxulon"
+ },
+ {
+   "Name": "Raxus Prime",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tion Hegemony",
+   "System": "Raxus system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Raydonia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Raysho",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Hosnian system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Reamma",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Refnu",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Nefrian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rhen Var",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rhommamool",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Riflor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Advozse",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rina Major",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Blarina",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ringo Vinda",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rinn",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rintonne",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rion",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Riosa",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rishi",
+   "Region": "Outer Rim Territories",
+   "Sector": "Abrion sector",
+   "System": "Rishi system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Roche",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Verpine",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rodia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Savareen sector",
+   "System": "Tyrius system",
+   "Inhabitants": "Rodians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Roon",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rothana",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Rumitaka",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Five Points system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ruoss Minor",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ruuria",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ruurian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ruusan",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Ruusan system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ryloth",
+   "Region": "Outer Rim Territories",
+   "Sector": "Gaulus sector",
+   "System": "Ryloth system",
+   "Inhabitants": "Humans, Twi'leks",
+   "Capital City": "Lessu"
+ },
+ {
+   "Name": "Sahbrontee I",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sakiya",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Sakiyans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Saleucami",
+   "Region": "Outer Rim Territories",
+   "Sector": "Suolriep sector",
+   "System": "Saleucami system",
+   "Inhabitants": "Eopie, Humans, Nuna, Reek, Twi'leks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Salient I",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corporate Sector",
+   "System": "Salient system",
+   "Inhabitants": "Kobok, Hiitians, Tynnans, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Salient II",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corporate Sector",
+   "System": "Salient system",
+   "Inhabitants": "Kobok, Hiitians, Tynnans, Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sammun",
+   "Region": "Outer Rim Territories",
+   "Sector": "Batonn sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Samovar",
+   "Region": "Western Reaches",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sarapin",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sarka",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sarrish",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Satotai",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Five Points system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Scarif",
+   "Region": "Outer Rim Territories",
+   "Sector": "Abrion sector",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Scipio",
+   "Region": "Outer Rim Territories",
+   "Sector": "Albarrio sector",
+   "System": "Albarrio system",
+   "Inhabitants": "Humans, Muuns",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Secundus Ando",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Harch",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sedratis",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Seelos",
+   "Region": "Outer Rim Territories",
+   "Sector": "Kwymar sector",
+   "System": "Seelos system",
+   "Inhabitants": "Humans (Clones)",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sembla",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Serenno",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sernpidal",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Serralonis",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sesid",
+   "Region": "Outer Rim Territories",
+   "Sector": "Corva sector",
+   "System": "Sesid system",
+   "Inhabitants": "Dreadan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Seswenna",
+   "Region": "Outer Rim Territories",
+   "Sector": "Seswenna sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sevarcos",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Wookiees, Quarren, Weequay",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sha Qarot",
+   "Region": "Deep Core",
+   "Sector": "Unknown",
+   "System": "Sha Qarot system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Shantipole",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Mon Calamari",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Shaum Hii",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Shili",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Shili system",
+   "Inhabitants": "Togruta",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Shu-Torun",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sibensko",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sirpar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Skako",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Skakoans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Skako Minor",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Poletecs",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Skaradosh",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Skorii-Lei",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Skuhl",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sluis Van",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sneeve",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Sneevel",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Socorro",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Son-tuul",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Spalex",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unidentified Spalex species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sriluur",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Weequays",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Starkiller Base",
+   "Region": "Unknown Regions",
+   "Sector": "7G sector",
+   "System": "Starkiller Base system (Formerly; the planet was mobile)",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sterdic IV",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unidentified Sterdic IV species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Stewjon",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Stygeon Prime",
+   "Region": "Outer Rim Territories",
+   "Sector": "Nuiri sector",
+   "System": "Stygeon system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Suba",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Sullust",
+   "Region": "Outer Rim Territories",
+   "Sector": "Sullust sector",
+   "System": "Sullust system",
+   "Inhabitants": "Humans, Sullustans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Taanab",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Takobo",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ithorians",
+   "Capital City": "Takobo City"
+ },
+ {
+   "Name": "Takodana",
+   "Region": "Western Reaches",
+   "Sector": "Tashtor sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tammuz-an",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tamsye Prime",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Tamsye Prime system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tangenine",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tangrene",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tansyl 5",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Frigosian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Taris",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Kubaz",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tatooine",
+   "Region": "Outer Rim Territories",
+   "Sector": "Arkanis sector",
+   "System": "Tatoo system",
+   "Inhabitants": "Aqualish, Bith, Dug, Humans, Hutts, Jawas, Nikto, Rodian, Talz, Twi'lek, Tusken Raiders, Weequays, various others",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Taul",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tei-Untis",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Zabrak",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Telos",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tepasi",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Teralov",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Teth",
+   "Region": "Wild Space",
+   "Sector": "Baxel sector",
+   "System": "Teth system",
+   "Inhabitants": "Hutts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Teyr",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thabeska",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thalassia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "The Deep",
+   "Region": "Unknown Regions",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "The Redoubt",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Theron",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Theron system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thession",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thisspias",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Thisspiasians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thrad",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Thradian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thune",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Bith, Grans, Hutts, Ithorians, Jablogians, Klatooinians, Mon Calamari, Onodones, Rodians, Sullustans, Twi'leks, Wookiees",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thustra",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Thustra system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Thyferra",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tibrin",
+   "Region": "Mid Rim",
+   "Sector": "Hadar sector",
+   "System": "Unknown",
+   "Inhabitants": "Ishi Tib",
+   "Capital City": "Tibrin's capital"
+ },
+ {
+   "Name": "Tiisheraan",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tilth",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tinnel IV",
+   "Region": "Core Worlds",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tirahnn",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Togoria",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tokmia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tokuut",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Toola",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Whiphids",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Torphlus",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Torphlusian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tosste",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Touksingal",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Toydaria",
+   "Region": "Mid Rim",
+   "Sector": "Hutt Space",
+   "System": "Toydaria system",
+   "Inhabitants": "Toydarians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Trandosha",
+   "Region": "Mid Rim",
+   "Sector": "Mytaranor sector",
+   "System": "Kashyyyk system",
+   "Inhabitants": "Trandoshans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Trian",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Trogan",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Troiken",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Xexto",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tsevuka",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Tsevukans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tund",
+   "Region": "Outer Rim Territories",
+   "Sector": "Centrality",
+   "System": "Unknown",
+   "Inhabitants": "Toong",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tureen VII",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Twon Ketee",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tyegin",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Various",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Tython",
+   "Region": "Deep Core",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Uba",
+   "Region": "Mid Rim",
+   "Sector": "Barsa sector",
+   "System": "Uba system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ubardia",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ubduria",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Ubdurians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ubrikkia",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Uchinao",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Five Points system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ukio",
+   "Region": "Outer Rim Territories",
+   "Sector": "Abrion sector",
+   "System": "Unknown",
+   "Inhabitants": "Ukians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ultaar",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Umbara",
+   "Region": "Expansion Region",
+   "Sector": "Ghost Nebula",
+   "System": "Umbara system",
+   "Inhabitants": "Umbarans",
+   "Capital City": "Umbaran capital"
+ },
+ {
+   "Name": "Umgul",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified agricultural planet",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified Gank homeworld",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Ganks",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified gas giant (Sentinel Base)",
+   "Region": "Outer Rim Territories",
+   "Sector": "Arkanis sector",
+   "System": "Sentinel Base system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified green planet",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified ocean planet",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unidentified aquatic species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified Outer Rim planet (Slitherette)",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Slitherette",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Cora Vessora)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Dragon Void Run)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Freidal)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Havoc Outpost)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Ilum system)",
+   "Region": "Unknown Regions",
+   "Sector": "7G sector",
+   "System": "Ilum system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Klikklak)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Lexim)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Lupr'or)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Lupr'or",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Monsua Nebula)",
+   "Region": "Outer Rim Territories",
+   "Sector": "Moddell sector",
+   "System": "Monsua Nebula",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Nes Ukul)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unidentified species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Outer Rim Territories)",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Raada)",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Sunshi system)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Sunshi system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Tholme and Ventress)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Thrawn's exile)/Canon",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified planet (Vagadarr system)",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Vagadarr system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified ringed planet",
+   "Region": "Unknown",
+   "Sector": "Regani sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified Snee homeworld",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Snee",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified Squamatan homeworld",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Squamatan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Unidentified uninhabited volcanic planet",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unidentified volcanic planet system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Uogo'cor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Uquine",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Urce",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Utapau",
+   "Region": "Outer Rim Territories",
+   "Sector": "Tarabba sector",
+   "System": "Utapau system",
+   "Inhabitants": "Amani, Pau'ans, Sugi, Utai",
+   "Capital City": "Pau City"
+ },
+ {
+   "Name": "Uviuy Exen",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Uyter",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Central City"
+ },
+ {
+   "Name": "Vakkar",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Valc",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vallt",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Valltii",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vandyne",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vanqor",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Vanqor system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vardos",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Jinata system",
+   "Inhabitants": "Aqualish, Humans",
+   "Capital City": "Kestro"
+ },
+ {
+   "Name": "Vashka",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vassek",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Vassek system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Velmor",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Velusia",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Velusians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vendaxa",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ventooine",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Veron",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Veros",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Verosian",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vertseth",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vetine",
+   "Region": "Unknown",
+   "Sector": "Merrick sector",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Viamarr",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vinsoth",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vir Aphshire",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Virujansi",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vivonah",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vjun",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vodran",
+   "Region": "Outer Rim Territories",
+   "Sector": "Hutt Space",
+   "System": "Unknown",
+   "Inhabitants": "Vodrans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vondarc",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vorlag",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Vorlaggn",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vortex",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vrogas Vas",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vulpter",
+   "Region": "Deep Core",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vurdon Ka",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Vyndal",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unidentified Vyndal species",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wadi Raffa",
+   "Region": "Western Reaches",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wakeelmui",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Watassay",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Five Points system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wayland",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wecacoe",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wellspring of Life",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Whiforla II",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Whiforlan",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wobani",
+   "Region": "Mid Rim",
+   "Sector": "Bryx sector",
+   "System": "Wobani system",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Woostri",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wor Tandell",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wrea",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Wrean",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wroona",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Wynkahthu",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Xagobah",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Xamsters",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Xala",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Xala system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Xirl",
+   "Region": "Wild Space",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yabol Opa",
+   "Region": "Colonies",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yaga Minor",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yag'Dhul",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Givins",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yar Togna",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Tognath",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yarma",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Yarma system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yavin",
+   "Region": "Outer Rim Territories",
+   "Sector": "Gordian Reach",
+   "System": "Yavin system",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yinchorr",
+   "Region": "Expansion Region",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Ylesia",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Yout",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zastiga",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "ZeHeth",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zeitooine",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zeltros",
+   "Region": "Inner Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zequardia",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Humans",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zhadalene",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zhanox",
+   "Region": "Outer Rim Territories",
+   "Sector": "Anoat sector",
+   "System": "Zhanox system",
+   "Inhabitants": "Ugnaughts",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zolan",
+   "Region": "Mid Rim",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Clawdites",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zygerria",
+   "Region": "Outer Rim Territories",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Zygerrians",
+   "Capital City": "Unknown"
+ },
+ {
+   "Name": "Zyzar",
+   "Region": "Unknown",
+   "Sector": "Unknown",
+   "System": "Unknown",
+   "Inhabitants": "Unknown",
+   "Capital City": "Unknown"
+ }
+]
