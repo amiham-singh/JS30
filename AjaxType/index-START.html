@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Type Ahead 👀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Wars_Yellow_Logo.svg/2000px-Star_Wars_Yellow_Logo.svg.png" ></center>
+
+
+  <form class="search-form">
+    <input type="text" class="search" placeholder=" Search Planet or species">
+    <ul class="suggestions">
+      
+    </ul>
+  </form>
+<script>
+
+
+const endpoint = 'https://rawgit.com/amiham-singh/js30/master/06%20-%20Type%20Ahead/planets2.json';
+
+const planets = [];
+fetch(endpoint)
+  .then(blob => blob.json())
+  .then(data => planets.push(...data));
+   
+
+
+function findMatches(wordToMatch, planets) {
+  return planets.filter(planet => {
+    // here we need to figure out if the city or state matches what was searched
+    const regex = new RegExp(wordToMatch, 'gi');
+  
+return planet.Name.match(regex) || planet.Inhabitants.match(regex)
+
+  });
+}
+
+function displayMatches() {
+  const matchArray = findMatches(this.value, planets);
+  const html = matchArray.map(planet => {
+    const regex = new RegExp(this.value, 'gi');
+    const planetName = planet.Name.replace(regex, `<span class="hl">${this.value}</span>`);
+    const inhabitantsName = planet.Inhabitants.replace(regex, `<span class="hl">${this.value}</span>`);
+    return `
+      <li>
+        <span class="name"><a href="${planet.purl}">${planetName}</a>:</span>
+        <span class="population"><a href="${planet.surl}">${inhabitantsName}</a></span>
+      </li>
+    `;
+  }).join('');
+  suggestions.innerHTML = html;
+}
+const searchInput = document.querySelector('.search');
+const suggestions = document.querySelector('.suggestions');
+searchInput.addEventListener('change', displayMatches);
+searchInput.addEventListener('keyup', displayMatches);
+</script>
+  </body>
+</html>

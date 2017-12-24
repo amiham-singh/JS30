@@ -1,7 +1,8 @@
     html {
       box-sizing: border-box;
-      background:#ffc600;
-      font-family:'helvetica neue';
+
+      background-image: url("http://ak6.picdn.net/shutterstock/videos/8028916/thumb/7.jpg");
+     font-family: monospace;
       font-size: 20px;
       font-weight: 200;
     }
@@ -11,6 +12,9 @@
     input {
       width: 100%;
       padding:20px;
+      background-color: black;
+      caret-color: red;
+   font-family: 'Roboto Mono', monospace;
     }
 
     .search-form {
@@ -22,15 +26,16 @@
       margin: 0;
       text-align: center;
       outline:0;
-      border: 10px solid #F7F7F7;
+      border: 10px solid #FFD80A;
       width: 120%;
       left: -10%;
       position: relative;
       top: 10px;
       z-index: 2;
       border-radius: 5px;
-      font-size: 40px;
-      box-shadow: 0 0 5px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.19);
+      font-size: 1.5rem;
+      color: white;
+      box-shadow: 5px 2px 20px 9px rgba(0, 0, 0, 0.18), inset 0 0 2px rgba(0, 0, 0, 0.19);
     }
 
 
@@ -48,7 +53,7 @@
       margin:0;
       padding:20px;
       transition:background 0.2s;
-      /*display:flex;*/
+      display:flex;
       justify-content:space-between;
       text-transform: capitalize;
     }
@@ -62,10 +67,25 @@
       background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
     }
 
-    span.population {
-      font-size: 15px;
-    }
-
+ 
     .hl {
       background:#ffc600;
     }
+
+    img { 
+        max-width: 75%;
+    padding-top: 3rem;
+}
+
+a:link, a:visited {
+    
+    color: #000040;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+   color: red;
+}
